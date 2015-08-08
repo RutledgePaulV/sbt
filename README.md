@@ -3,3 +3,7 @@
 ## What
 Ubuntu based docker image for Scala / SBT.
 
+## Usage
+```bash
+docker run -it quay.io/rutledgepaulv/scala-and-sbt
+```
