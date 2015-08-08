@@ -21,4 +21,7 @@ RUN wget http://downloads.typesafe.com/scala/${SCALA_VERSION}/scala-${SCALA_VERS
 
 RUN apt-get -y --force-yes install sbt
 
+# compile a non-existent project to pre-download sbt dependencies
+RUN sbt compile
+
 CMD ["sbt"]
