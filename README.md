@@ -1,4 +1,5 @@
 [![Docker Repository on Quay.io](https://quay.io/repository/rutledgepaulv/sbt/status "Docker Repository on Quay.io")](https://quay.io/repository/rutledgepaulv/sbt)
+[![](https://badge.imagelayers.io/rutledgepaulv/sbt:latest.svg)](https://imagelayers.io/?images=rutledgepaulv/sbt:latest 'Get your own badge on imagelayers.io')
 
 
 ## What
